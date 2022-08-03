@@ -12,7 +12,7 @@ class Translate{
     translate(language){
         if(language == "arabic"){
             
-            document.getElementById("lang1").innerHTML="موظفو ومتدرب MHG IT";
+            document.getElementById("lang1").innerHTML="MHG IT";
             document.getElementById("lang2").innerHTML="نجعل التكنولوجيا في المتناول! وكل شيء سهل";
             document.getElementById("lang3").innerHTML="احجز الان";
 

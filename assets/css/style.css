@@ -30799,6 +30799,10 @@ video.player {
 .si-weather_winds-rain:before {
   content: "\f5db";
 }
+#lan0 #lan00 #lan000 #lan0000{
+  position: right;
+  margin-top: 26px;
+}
 
 #arabic {
   border: none;
@@ -30901,14 +30905,15 @@ p.form-message.error {
 }
 
 .contact-form .single-form .main-btn {
-  border-radius: 50px;
-  background-color: #0067f4;
+  border-radius: 3px;
+  background-color: #4a5464;
   color: #fff;
 }
 
 .contact-form .single-form .main-btn:hover {
-  background-color: #005ad5;
-}.section-title .title {
+  background-color: #006ab4;
+}
+.section-title .title {
   font-size: 50px;
   font-weight: 600;
   line-height: 55px;
@@ -30927,4 +30932,14 @@ p.form-message.error {
   line-height: 24px;
   color: #6c6c6c;
   margin-top: 24px;
+}
+.main-btn {
+  border: none;
+
+}
+h1,
+h2,
+h4,
+h5{
+  text-align: center ;
 }
