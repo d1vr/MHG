@@ -30946,3 +30946,9 @@ h5{
 {
   font-size: 106px;
 }
+
+.s-baseline {
+    display: flex;
+    align-content: center;
+    align-items: baseline;
+  }
